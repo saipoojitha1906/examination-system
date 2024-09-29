@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{
+			color:black;
+			background-image: url("https://t3.ftcdn.net/jpg/02/68/02/66/240_F_268026635_2FNVc7ph81MYYgWcr1sF9LnDfB4bSYhK.jpg");
+			background-size:cover;
+			padding:5px 10px 10px 700px;
+	}
+form{
+	border:2px solid black;
+	padding:10px 10px 10px 20px;	
+}
